@@ -1,3 +1,8 @@
+"""
+script para para cinemática inversa através da implementação da matriz de transformação 
+Autores: Alessandro Melo de Oliveira e Guilherme Beppu de Souza
+""" 
+
 import sympy as sp
 
 theta1, d1, d2, d3 = sp.symbols("theta_1 d_1 d_2 d_3")
