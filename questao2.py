@@ -1,5 +1,5 @@
 """
-script para para cinemática inversa através da implementação da matriz de transformação 
+Script para aolução cinemática inversa através da implementação da matriz de transformação 
 Autores: Alessandro Melo de Oliveira e Guilherme Beppu de Souza
 """ 
 
